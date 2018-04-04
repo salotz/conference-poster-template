@@ -1,0 +1,45 @@
+* Checklist
+- [ ] Title, Author
+- [ ] introduction
+- [ ] objectives/hypotheses/aims/questions
+- [ ] materials and methods
+- [ ] results
+- [ ] conclusions
+- [ ] acknowledgements
+- [ ] references
+- [ ] contact info
+
+* Font pairings
+|                 |                 |
+|-----------------+-----------------|
+| Arial           | Verdana         |
+| Helvetica       | Palatino        |
+| Helvetica       | Garamond        |
+| Caslon          | Univers         |
+| Futura          | Bodoni          |
+| Garamond        | Futura          |
+| Gills Sans      | Caslon          |
+| Minion          | Gill Sans       |
+| Myriad          | Minion          |
+| Caslon          | Franklin Gothic |
+| Trade Gothic    | Clarendon       |
+| Franklin Gothic | Baskerville     |
+
+* details
+
+- line spacing = 1
+** Title
+- sans-serif
+- 85 pt
+** Authors
+- sans-serif
+- 50 pt
+** Sub-headings
+- sans-serif
+- 36 pt
+** body text
+- serif
+- 24 pt
+** Captions
+- serif
+- 18 pt
